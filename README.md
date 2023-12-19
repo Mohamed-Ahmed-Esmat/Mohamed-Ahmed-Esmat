@@ -6,7 +6,7 @@
 ### 🌱 About Me
 
 - I am currently a computer engineering student.
-- Studying mobile ap developement and data science.
+- Studying mobile app developement and data science.
 
 ### 📫 Connect with me
 
